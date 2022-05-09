@@ -40,3 +40,7 @@ int main(int argc, char *argv[])
 
 
 }
+
+// The grading stats mention 140/150. They say:
+//Good attempt. The code is correct.
+//You can show what all the steps you are doing with the coding snippet. You can also explain about IOobject and attach the Make folder content screenshots.
