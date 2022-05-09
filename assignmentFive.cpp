@@ -22,7 +22,7 @@ int main(int argc, char *argv[])
         )
     );
 
-    IOdictionary ioDictObj
+    IOdictionary thermalProperties
     (
         IOobject //Creating an IO object
         (
